@@ -13,5 +13,5 @@ The function should return those rows where the number of attempts is less than 
 
 **Output:**
         
-        attempts   name    qualify  score
-    9          1       Jonas         yes   19.0
+        attempts    name   qualify  score
+    9          1   Jonas       yes   19.0
